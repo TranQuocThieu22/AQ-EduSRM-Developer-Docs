@@ -8,7 +8,7 @@ sidebar_position: 1
 
    ![alt text](image.png)
 
-1. Tạo 1 file đặt là page.tsx (Bắt )
+1. Tạo 1 file đặt là page.tsx (Bắt buộc)
 1. Luôn bao với MyPageContent
 
 ```tsx

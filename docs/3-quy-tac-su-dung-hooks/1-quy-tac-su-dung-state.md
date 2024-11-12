@@ -1,7 +1,3 @@
----
-sidebar_position: 1
----
-
 # Quy tắc sử dụng state
 
 _State là một đối tượng chứa dữ liệu hoặc giá trị thay đổi của một component. Nó giúp React theo dõi và quản lý các thay đổi về dữ liệu, từ đó cập nhật giao diện một cách tự động khi dữ liệu này thay đổi. State là một trong những tính năng quan trọng để tạo ra giao diện động và tương tác trong React._

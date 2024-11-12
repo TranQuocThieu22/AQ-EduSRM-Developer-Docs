@@ -3,6 +3,10 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
+  markdown: {
+    mermaid: true,
+  },
+  themes: ['@docusaurus/theme-mermaid'],
   title: 'AQ Front-end coding standard',
   tagline: 'Tài liệu về tổ chức kiến trúc front-end cho các sản phẩm mới của AQ Tech bao gồm tổ chức folder, phương pháp code, quy tắc đặt tên biến, file...',
   favicon: 'img/favicon.ico',
