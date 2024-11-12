@@ -3,8 +3,8 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'AQ Front-end coding standard',
+  tagline: 'Tài liệu về tổ chức kiến trúc front-end cho các sản phẩm mới của AQ Tech bao gồm tổ chức folder, phương pháp code, quy tắc đặt tên biến, file...',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here

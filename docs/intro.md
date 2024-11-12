@@ -2,46 +2,13 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Giới thiệu Tài liệu Kiến trúc Front-End cho AQ Tech
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Tài liệu này được xây dựng nhằm hướng dẫn và chuẩn hóa việc tổ chức kiến trúc front-end cho các sản phẩm mới của **AQ Tech**, giúp các nhóm phát triển dễ dàng mở rộng, duy trì và đảm bảo chất lượng mã nguồn. Tài liệu này bao gồm các hướng dẫn chi tiết về tổ chức thư mục, phương pháp lập trình, quy tắc đặt tên biến và file, nhằm tạo ra một bộ tiêu chuẩn nhất quán và hiệu quả trong quy trình phát triển.
 
-## Getting Started
+## Mục tiêu chính của tài liệu
 
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- **Thiết lập cấu trúc thư mục** dễ hiểu và có khả năng mở rộng, giúp các nhóm phát triển quản lý các thành phần của ứng dụng một cách hợp lý.
+- **Áp dụng các phương pháp lập trình** hiện đại, tối ưu hóa hiệu suất và độ linh hoạt của mã nguồn.
+- Đưa ra các **quy tắc đặt tên biến và file** rõ ràng để tăng tính nhất quán, giúp các thành viên dễ dàng làm việc và phối hợp.
+- Đảm bảo mã nguồn **dễ đọc, dễ kiểm tra và dễ bảo trì**, từ đó nâng cao hiệu quả trong quá trình phát triển và giảm thiểu lỗi phát sinh.
