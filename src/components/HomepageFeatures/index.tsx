@@ -10,32 +10,32 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Cấu trúc Thư mục Khoa học',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Cấu trúc thư mục được tổ chức để hỗ trợ phát triển linh hoạt và dễ quản lý. 
+        Mỗi module, component và phần tài nguyên đều có vị trí rõ ràng giúp việc duyệt và tìm kiếm nhanh chóng hơn.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Quy tắc Mã hóa Chặt chẽ',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+          Quy tắc mã hóa bao gồm hướng dẫn chi tiết về cách đặt tên biến, định nghĩa hàm, 
+          và sử dụng component. Những quy tắc này đảm bảo mã nguồn dễ đọc, dễ bảo trì, và nhất quán.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Sử dụng Tối đa Tính năng của React',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+      Hệ thống được xây dựng trên nền tảng React, với cấu trúc linh hoạt cho phép mở rộng và tái sử dụng component.
+      Bạn có thể tùy chỉnh giao diện mà vẫn giữ nguyên các phần như header và footer.
       </>
     ),
   },
