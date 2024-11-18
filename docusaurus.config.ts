@@ -7,8 +7,8 @@ const config: Config = {
     mermaid: true,
   },
   themes: ['@docusaurus/theme-mermaid'],
-  title: 'AQ Front-end coding standard',
-  tagline: 'Tài liệu về tổ chức kiến trúc front-end cho các sản phẩm mới của AQ Tech bao gồm tổ chức folder, phương pháp code, quy tắc đặt tên biến, file...',
+  title: 'AQ coding standard',
+  tagline: 'Tài liệu về tổ chức kiến trúc cho các sản phẩm mới của AQ Tech bao gồm tổ chức folder, phương pháp code, quy tắc đặt tên biến, file...',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -70,7 +70,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'AQ Front-end Code standard',
+      title: 'AQ Code standard',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
